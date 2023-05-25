@@ -1,0 +1,9 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\bin\Debug\AlgorStudy_Lab4.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\bin\Debug\AlgorStudy_Lab4.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\bin\Debug\AlgorStudy_Lab4.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\obj\Debug\AlgorStudy_Lab4.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\obj\Debug\AlgorStudy_Lab4.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\obj\Debug\AlgorStudy_Lab4.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\obj\Debug\AlgorStudy_Lab4.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\obj\Debug\AlgorStudy_Lab4.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\AlgorStudy_Labs\AlgorStudy_Lab4\obj\Debug\AlgorStudy_Lab4.csprojResolveAssemblyReference.cache
