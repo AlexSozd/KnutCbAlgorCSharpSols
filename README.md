@@ -2,13 +2,13 @@
 
 Realization of combinatorial searching algorithms described in Chapter 7 of Donald Knut book "The Art of Computer Programming", Volume 4A (by C# language means).
 
--	Generating all compositions of a positive integer n (solution of the task 12 to the Section 7.2.1.1)
+-	Generating all compositions of a positive integer *n* (solution of the task 12 to the Section 7.2.1.1)
 -	Alphametics solution (marked as Algorithm G in the Section 7.2.1.2)
 -	Generating all combinations by Gray code (7.2.1.1L)
--	Generating partitions of a positive integer n (partitions of n into m parts, 7.2.1.4H)
+-	Generating partitions of a positive integer *n* (partitions of *n* into *m* parts, 7.2.1.4H)
 -	Generating all set partitions by restricted growth string (7.2.1.5H)
 
-For the first task – generating compositions of a positive integer with writing them in the row (the *AlgorStudy_Lab1* project) – basic template class *List<T>* is 
+For the first task – generating compositions of a positive integer with writing them in the row (the *AlgorStudy_Lab1* project) – basic template class *List*<*T*> is 
 used to construct each of them. All completed instances are added elementwise to the string for result output.
 
 For the third task – alphametics solution (the *AlgorStudy_Lab2_1* project) – additional several lists based on the same template class were inserted, two symbolic 
@@ -24,14 +24,14 @@ the *SortedSet* class). Finally, this list is converted into the result string.
 
 Реализации на языке С# алгоритмов комбинаторного поиска из главы 7, входящей в том 4A книги Дональда Кнута «Искусство программирования».
 
--	Генерация композиций числа n (решение задачи 12 к разделу 7.2.1.1)
+-	Генерация композиций числа *n* (решение задачи 12 к разделу 7.2.1.1)
 -	Решение «буквометика» (обозначен как алгоритм G в разделе 7.2.1.2)
 -	Генерация всех сочетаний кодом Грея (7.2.1.1L)
--	Генерация разбиений целого числа n (разбиений числа n на m блоков, 7.2.1.4H)
+-	Генерация разбиений целого числа *n* (разбиений числа *n* на *m* блоков, 7.2.1.4H)
 -	Генерация всех разбиений множеств с помощью ограниченно растущей строки (7.2.1.5H)
 
 Для первой задачи – генерации композиции числа в виде ряда (проект *AlgorStudy_Lab1*) – в исходном коде использовался стандартный класс-шаблон для представления 
-списка (*List<T>*), с последующим переносом поэлементно каждого экземпляра в результирующую строку. Для третьей – решения «буквометика» (проект *AlgorStudy_Lab2_1*) 
+списка (*List*<*T*>), с последующим переносом поэлементно каждого экземпляра в результирующую строку. Для третьей – решения «буквометика» (проект *AlgorStudy_Lab2_1*) 
 – использовалось ещё несколько листов на основе того же класса-шаблона – два под целые числа, для промежуточных проверочных вычислений, и два для хранения букв, всех 
 встречающихся в примере и отдельно для стоящих на первых позициях в записи чисел. Ещё одна пара целочисленных массивов применяется для представления кортежа 
 перестановки (упорядоченная запись соответствующих буквам цифр) и вспомогательной управляющей таблицы.
